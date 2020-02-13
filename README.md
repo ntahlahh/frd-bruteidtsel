@@ -11,7 +11,7 @@ $pkg install php
 
 $pkg install git
 
-$git clone https://github.com/frd/acaktsel.git
+$git clone https://github.com/ntahlahh/frd-bruteidtsel.git
 
 
 
